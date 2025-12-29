@@ -90,7 +90,7 @@
   (
     [Mala hierba nunca muere],
     [Mala hiedra nunca hiere],
-    [Mala madre siempre tiene],
+    [Mala madre nunca tiene],
     [Mala lengua]
   ),
   (
