@@ -9,6 +9,18 @@
   doc
 )
 
-Pantalla nos muestra un close-up de un parlante al escucharse “Las Avispas” de Juan Luis Guerra. La cámara se aleja y revela a una persona recostada en el piso con el parlante. Empieza a revelar el vagón del metro en que está. Ya vemos el cuerpo completo, el piso tiene manchas de sangre y la música sigue aunque más tenue. Seguimos alejándonos y vemos otros cuerpos en asientos y el piso, todos muertos. La musica se atenúa justo para poder escuchar con claridad los gritos y disparos que ocurren a nuestras espaldas.
-Se va a negro y queda una cola de la canción con reverb.
+H1 H2, cediendo ante sus párpados cansados, cerró sus ojos. Una fría brisa le dio en el rostro. --¿No te olvidas de algo?-- preguntó [pícaro/coqueto/playfully] su marido, a lo que H1 respondió con un [contundente] beso en los labios. --Nunca me olvido-- sonrió y acomodándose su boina se adentró en la niebla.
+
+[metro]
+
+Era una fría de agosto ...
+
+[metro]
+
+[la idea es alternar entre presente (tragedia metro) y pasado cercano (recorrido de casa hasta el metro)]
+
+...
+
+
+[H1 echa un último vistazo a la escena, escucha a lo lejos gritos desesperados y disparos], ... se sonrió al recordar ese tierno beso que dio aquella mañana y, cediendo ante sus párpados cansados, cerró sus ojos.
 
