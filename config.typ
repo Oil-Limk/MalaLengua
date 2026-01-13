@@ -4,7 +4,7 @@
     fill: rgb("#201106"),
   )
   set text(
-    font: "Noto Sans",
+    font: "New Computer Modern",
     fill: rgb("#ecb500"),
     size: 25pt,
   )
@@ -20,7 +20,7 @@
   bookcover(title, author)
 
   set par(justify: true, first-line-indent: (amount: 1.5em, all: true))
-  set text(font: "Noto Sans Old", size: 10pt)
+  set text(font: "New Computer Modern", size: 10pt)
 
   show outline: it => {
     show heading: set align(center)
