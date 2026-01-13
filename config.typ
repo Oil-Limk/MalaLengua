@@ -4,7 +4,7 @@
     fill: rgb("#201106"),
   )
   set text(
-    font: "Noto Sans Old",
+    font: "Noto Sans",
     fill: rgb("#ecb500"),
     size: 25pt,
   )
