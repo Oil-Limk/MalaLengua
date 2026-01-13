@@ -15,7 +15,7 @@ jobs:
         with:
           input_files: main.typ
       - name: Upload
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          name: PDF
-          path: '**/*.pdf'
+        uses: stefanzweifel/git-auto-commit-action@v7
+          with:
+            commit_message: Update PDF
+            file_pattern: '*.pdf'
