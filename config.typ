@@ -40,23 +40,10 @@
   set page(paper: "us-letter", numbering: "1")
   counter(page).update(1)
 
-  for chapter in chapters {
-    pagebreak(weak: true)
-    include "chapters/"+chapter
-  }
-}
-
-// Chapters
-#let chapter(title, verses, doc) = {
-  align(center, heading(level: 2, title))
-
-  align(left, (emph(
-    for verse in verses {
-      linebreak()
-      verse
+  for (frch, toch) in chapters {
+    for i in range(frch, toch + 1) {
+      pagebreak(weak: true)
+      include "chapters/"+str(i)+".typ"
     }
-  ),[...]).join())
-  linebreak()
-
-  doc
+  }
 }
