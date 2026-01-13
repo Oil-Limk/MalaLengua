@@ -3,8 +3,9 @@
 #show: doc => chapter(
   [Avispa],
   (
-    [También me dijo: "no te mortifiques,],
-    ["que yo le envío mis avispas para que lo piquen"],
+    [También me dijo],
+    [No te mortifiques],
+    [Que yo le envío mis avispas para que lo piquen],
   ),
   doc
 )

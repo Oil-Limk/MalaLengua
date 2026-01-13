@@ -10,7 +10,7 @@
   doc
 )
 
-La música volvía a sonar en el salón. La mezcla de bronces, cuerdas y percusión de la cumbia chorreaba desde el tocadiscos y se escurría y se estiraba hasta ocupar cada rincón del hogar. Había algo de grotesco en todo esto, sonido intentaba fútilmente darle vida a un hogar que ya llevaba varios años desierto. En medio del salón se encontraban bailando la misma canción que décadas atrás les servía de excusa para enamorarse. Él bailaba de memoria con un ritmo mecánico, pero fluido, aprendido con los años. Ella lo seguía con una agilidad inigualable, parecía flotar al girar abrazada del viejo.
+La música volvía a sonar en el salón. La mezcla de bronces, cuerdas y percusión de la cumbia chorreaba desde el tocadiscos y se escurría y se estiraba hasta ocupar cada rincón de la casa. Había algo de grotesco en todo esto, el sonido intentaba fútilmente darle vida a un hogar que ya llevaba varios años desierto. En medio del salón se encontraban bailando la misma canción que décadas atrás les servió de excusa para enamorarse. Él bailaba de memoria con un ritmo mecánico, pero fluido, aprendido con los años. Ella lo seguía con una agilidad inigualable, parecía flotar al girar abrazada del viejo.
 
 --Este será mi último baile, B1 --le dijo al oído, mientras giraban abrazados en medio del salón.
 
