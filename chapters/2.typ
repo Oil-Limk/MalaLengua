@@ -1,4 +1,4 @@
-#import "chap-config.typ": chapter
+#import "../config.typ": chapter
 
 #show: doc => chapter(
   [Avispa],
