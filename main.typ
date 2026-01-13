@@ -25,9 +25,9 @@
     [Mala lengua],
   ),
   (
-    include "chapters/0.typ",
-    include "chapters/1.typ",
-    include "chapters/2.typ",
-    include "chapters/3.typ",
+    "0.typ",
+    "1.typ",
+    "2.typ",
+    "3.typ",
   ),
 )

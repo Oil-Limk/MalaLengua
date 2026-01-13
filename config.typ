@@ -42,7 +42,7 @@
 
   for chapter in chapters {
     pagebreak(weak: true)
-    chapter
+    include "chapters/"+chapter
   }
 }
 
