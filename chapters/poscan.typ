@@ -10,7 +10,6 @@
   doc
 )
 
-- Ruido
 - Muñequita Linda
 - Fuera de mi Vida - Chico Trujillo
 - Nunca es suficiente - Natalia Lafourcade
