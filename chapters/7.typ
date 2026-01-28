@@ -3,9 +3,9 @@
 #show: doc => chapter(
   [Elefantes],
   (
-    [Yo me pondré a vivir en cada rosa],
-    [Y en cada libro que tus ojos miren],
-    [Y en cada trino cantaré tu nombre],
+    [Yo pintaré de rosa el horizonte],
+    [Y pintaré de azul los alhelíes],
+    [Y doraré de luna tu cabello],
     [Para que no me olvides],
     [Para que no me olvides],
   ),
@@ -17,7 +17,7 @@
 ...
 
 
--- ¿Sabes por qué callan los elefantes?
+-- ¿Y por qué van cabizbajos cuando caminan?
 
 ...
 
@@ -25,4 +25,4 @@
 
 ...
 
--- Los elefantes nunca olvidan.
+-- Porque los elefantes...
