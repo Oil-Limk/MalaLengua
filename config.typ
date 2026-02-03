@@ -31,12 +31,7 @@
 
   pagebreak(weak: true)
   align(right + horizon,
-    quote(
-      for phrase in dedication {
-        phrase
-        linebreak()
-      }
-    )
+    quote(dedication.join(linebreak()))
   )
 
   set page(paper: "us-letter", numbering: "1")
@@ -54,13 +49,7 @@
 #let chapter(title, verses, doc) = {
   align(center, heading(level: 2, title))
 
-  align(left, (emph(
-    for verse in verses {
-      linebreak()
-      verse
-    }
-  ),[...]).join())
-  linebreak()
+  align(left, quote(verses.join(linebreak()))
 
   doc
 }
