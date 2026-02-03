@@ -1,7 +1,7 @@
 #import "../config.typ": chapter
 
 #show: doc => chapter(
-  [...],
+  [Mala Casa],
   (
     [Se borraron las pisadas],
     [Se apagaron los latidos],
