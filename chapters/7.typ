@@ -1,7 +1,7 @@
 #import "../config.typ": chapter
 
 #show: doc => chapter(
-  [Elefantes],
+  [Mala Cara],
   (
     [Yo pintaré de rosa el horizonte],
     [Y pintaré de azul los alhelíes],
