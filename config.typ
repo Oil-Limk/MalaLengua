@@ -31,7 +31,7 @@
 
   pagebreak(weak: true)
   align(right+horizon,
-    quote(dedication.join([\])))
+    quote(dedication.join([ \ ])))
 
   set page(paper: "us-letter", numbering: "1")
   counter(page).update(1)
@@ -48,7 +48,7 @@
 #let chapter(title, verses, doc) = {
   align(center, heading(level: 2, title))
 
-  align(left, quote(verses.join([\])))
+  align(left, quote(verses.join([ \ ])))
 
   doc
 }
