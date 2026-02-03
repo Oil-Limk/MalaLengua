@@ -31,10 +31,12 @@
 
   pagebreak(weak: true)
   align(right + horizon,
-    for phrase in dedication {
-      emph(phrase)
-      linebreak()
-    }
+    quote(
+      for phrase in dedication {
+        phrase
+        linebreak()
+      }
+    )
   )
 
   set page(paper: "us-letter", numbering: "1")
