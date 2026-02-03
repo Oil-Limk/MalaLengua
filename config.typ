@@ -30,9 +30,8 @@
   outline(target: heading.where(level: 2))
 
   pagebreak(weak: true)
-  align(right + horizon,
-    quote(dedication.join(linebreak()))
-  )
+  align(right+horizon,
+    quote(dedication.join([\])))
 
   set page(paper: "us-letter", numbering: "1")
   counter(page).update(1)
@@ -49,7 +48,7 @@
 #let chapter(title, verses, doc) = {
   align(center, heading(level: 2, title))
 
-  align(left, quote(verses.join(linebreak()))
+  align(left, quote(verses.join([\])))
 
   doc
 }
