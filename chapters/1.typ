@@ -1,7 +1,7 @@
 #import "../config.typ": chapter
 
 #show: doc => chapter(
-  [Mal Baile],
+  [Mala Muerte],
   (
     [Loca, loca, loca, te volviste loca y disparaste frente a mí],
     [Que te habías enamorado hace unos años sin decirme nada],
