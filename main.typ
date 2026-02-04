@@ -2,7 +2,7 @@
 #set text(lang: "es")
 
 #novel(
-  [Mala Legua],
+  [Mala Lengua],
   [Pseudónimo],
   (
     [Mala hierba nunca muere],
