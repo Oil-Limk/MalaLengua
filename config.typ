@@ -27,6 +27,10 @@
     it
   }
 
+  show outline.entry: it => {
+    link(it.element.location(), it)
+  }
+
   outline(target: heading.where(level: 2))
 
   pagebreak(weak: true)
