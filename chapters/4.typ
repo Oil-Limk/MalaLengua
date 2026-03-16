@@ -11,4 +11,4 @@
   doc
 )
 
-Lo seguía un rastro de sangre, carne y gritos.
+Le seguía un rastro de sangre, carne y gritos.

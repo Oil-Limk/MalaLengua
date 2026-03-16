@@ -1,11 +1,12 @@
 #import "../config.typ": chapter
 
 #show: doc => chapter(
-  [Mala Pena],
+  [...],
   (
-    [Loca, loca, loca, te volviste loca y disparaste frente a mí],
+    [Loca],
+    [Te volviste loca y disparaste frente a mí],
     [Que te habías enamorado hace unos años sin decirme nada],
-    [Entonces la emoción, confirma el sentimiento],
+    [Entonces la emoción confirma el sentimiento],
   ),
   doc
 )

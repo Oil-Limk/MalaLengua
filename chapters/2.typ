@@ -1,7 +1,7 @@
 #import "../config.typ": chapter
 
 #show: doc => chapter(
-  [Mala Muerte],
+  [...],
   (
     [También me dijo],
     [No te mortifiques],

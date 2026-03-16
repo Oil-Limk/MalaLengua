@@ -11,7 +11,7 @@
     [Mala lengua],
   ),
   (
-    (1,7),
+    (1,5),
   ),
   cover: image("malalengua.svg")
 )
