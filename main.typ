@@ -13,4 +13,5 @@
   (
     (1,7),
   ),
+  cover: image("malalengua.svg")
 )
