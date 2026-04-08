@@ -1,24 +1,19 @@
-// Bookcover
-#let ta-bookcover(title, author) = {
-  set page(
-    fill: rgb("#0a466c"),
-  )
-  set text(
-    font: "New Computer Modern",
-    fill: rgb("#ffffff"),
-    size: 25pt,
-  )
-
-  align(center + horizon, heading(level: 1, title))
-  align(center + horizon, author)
-}
-
 // Novel
 #let novel(title, author, dedication, chapters, cover:none) = {
   set page(numbering: none)
 
   if cover == none {
-    ta-bookcover(title, author)
+    set page(
+      fill: rgb("#0a466c"),
+    )
+    set text(
+      font: "New Computer Modern",
+      fill: rgb("#ffffff"),
+      size: 25pt,
+    )
+
+    align(center + horizon, heading(level: 1, title))
+    align(center + horizon, author)
   } else {
     set page(background: cover)
     pagebreak()
