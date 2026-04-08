@@ -1,19 +1,8 @@
-#import "../config.typ": chapter
-
-#show: doc => chapter(
-  [...],
-  (
-    [Loca],
-    [Te volviste loca y disparaste frente a mí],
-    [Que te habías enamorado hace unos años sin decirme nada],
-    [Entonces la emoción confirma el sentimiento],
-  ),
-  doc
-)
+(cambiar a que A1 se envenena)
 
 La música volvía a sonar en el salón. La mezcla de bronces, cuerdas y percusión de la cumbia chorreaba desde el tocadiscos y se escurría y se estiraba hasta ocupar cada rincón de la casa. Había algo de grotesco en todo esto, el sonido intentaba fútilmente darle vida a un hogar que ya llevaba varios años desierto. En medio del salón se encontraban bailando la misma canción que décadas atrás les servió de excusa para enamorarse. Él bailaba de memoria con un ritmo mecánico, pero fluido, aprendido con los años. Ella lo seguía con una agilidad inigualable, parecía flotar al girar abrazada del viejo.
 
---Este será mi último baile, B1 --le dijo al oído, mientras giraban abrazados en medio del salón.
+A1 se acercó al oído de su amada--: Este será mi último baile, B1.
 
 A1 A2 entró por la puerta trasera de la casa, la que daba al patio desde la cocina. Era una casa de proporciones desmedidas, construida pensando albergar toda la decendencia que el matrimonio deseaba tener. Lo cierto es que hoy el gran elefante blanco es únicamente habitado por la vieja pareja y, mientras él pasa el día trabajando en el patio, ella permanece inmóvil en un sillón en el salón principal.
 

@@ -11,7 +11,26 @@
     [Mala lengua],
   ),
   (
-    (1,5),
+    "Baile",
+    "Mala Sangre",
+    "Mala Pinta",
+    // "Mal de Muchos",
+    // "Malas Lenguas",
+
+    // Mala Hierba
+    // Mal de Ojos
+    // Mala Pinta
+    // Mal Pelado
+    // Mala Memoria
+    // Mal Tiempo
+    // Malas Ideas
+    // Mala Sangre
+    // Mal Día
+    // Mala Muerte
+    // Mal Presagio
+    // Mala Gente
+    // Mal de Muchos
+    // Malas Lenguas
   ),
   cover: image("malalengua.svg")
 )

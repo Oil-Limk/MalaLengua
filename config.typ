@@ -39,19 +39,9 @@
   set page(numbering: "1")
   counter(page).update(1)
 
-  for (frch, toch) in chapters {
-    for i in range(frch, toch + 1) {
-      pagebreak(weak: true)
-      include "chapters/"+str(i)+".typ"
-    }
+  for ch in chapters {
+    pagebreak(weak: true)
+    align(center, heading(level: 2, ch))
+    include "chapters/"+lower(ch).replace(" ", "_")+".typ"
   }
-}
-
-// Chapters
-#let chapter(title, verses, doc) = {
-  align(center, heading(level: 2, title))
-
-  align(right, emph(verses.join([ \ ])))
-
-  doc
 }
